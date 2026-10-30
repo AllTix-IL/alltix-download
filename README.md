@@ -2,7 +2,7 @@
 
 **כל הכרטיסים. מקום אחד.**
 
-## ⬇️ [הורדת האפליקציה (alltix.apk)](https://github.com/AllTix-IL/alltix-download/releases/latest/download/alltix.apk)
+## [הורדת האפליקציה (alltix.apk)](https://github.com/AllTix-IL/alltix-download/releases/latest/download/alltix.apk)
 
 האתר: https://alltix-il.web.app
 
